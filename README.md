@@ -1,6 +1,14 @@
-## Hi there 👋
+Hello 💗 I am Krishna 
+I am From G U J A R A T INDIA 😊
 
-Tech Stack 🔥
+Frontend ➡️ ( HTML CSS BOOTSTRAP JS ) 
+Backend ➡️ ( NODE JS ) 
+DataBase ➡️ ( SQL MONGO DB ) 
+Web Design ➡️ ( FIGMA CANVA EXCALIDRAW ) 
+Programming Language ➡️ ( Python C ) 
+
+My Tech Stack 🔥
+----------------
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
