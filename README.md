@@ -1,4 +1,4 @@
-𝓟𝓞𝓡𝓣𝓕𝓞𝓛𝓘𝓞 - [(https://zesty-creponne-27d6a0.netlify.app/)
+𝓟𝓞𝓡𝓣𝓕𝓞𝓛𝓘𝓞 - (https://zesty-creponne-27d6a0.netlify.app/)
 
 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 🔥
 
