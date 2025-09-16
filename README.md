@@ -2,6 +2,9 @@
 
 <img width="662" height="113" alt="github Repo Trophy" src="https://github.com/user-attachments/assets/3b3fc33f-7d9b-48fc-aea4-4b4ddeed62e2" />
 
+![Krishna1111-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishna1111-code&show_icons=true&theme=radical)
+
+
 
 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 🔥
 
