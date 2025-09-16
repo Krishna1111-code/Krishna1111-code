@@ -1,6 +1,7 @@
 𝓟𝓞𝓡𝓣𝓕𝓞𝓛𝓘𝓞 - (https://zesty-creponne-27d6a0.netlify.app/)
 
-https://github-profile-trophy.vercel.app/?username=Krishna1111-code&theme=monokai
+<img width="662" height="113" alt="github Repo Trophy" src="https://github.com/user-attachments/assets/3b3fc33f-7d9b-48fc-aea4-4b4ddeed62e2" />
+
 
 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 🔥
 
